@@ -235,7 +235,7 @@ Options:
                                 use if you need to publicly apply mounts
 ```
 
-Note: even though the `-Z, --context` option is not listed above, it actually still exists for compatibility with apps using SuperSU. However MagiskSU will silently ignore the option since it's no more relevant.
+Note: even though the `-Z, --context` option is not listed above, it actually still exists for compatibility with apps using SuperSU. However MagiskSU will silently ignore the option since it's no longer relevant.
 
 ### resetprop
 An applet of `magisk`, an advanced system property manipulation utility. Here's some background knowledge: 
